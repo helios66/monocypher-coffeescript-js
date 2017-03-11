@@ -8,3 +8,5 @@ Modified version of [Monocypher](https://github.com/joeolaoye/monocypher)
 [Ruby](https://github.com/helios66/monocypher-ruby)
 
 [Java](https://github.com/helios66/monocypher-java)
+
+[Swift](https://github.com/helios66/monocypher-swift)
